@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="bienvenu" content="Bienvenue sur mon super site web !">
+    <title> mon site web </title>
+    
+  </head>
+  <body style="background-color: lightgrey; color: darkgrey;">
+    <p>  Bienvenue sur mon super site web !</p>
+    
+  </body>
+</html>
